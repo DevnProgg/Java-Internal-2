@@ -342,5 +342,13 @@ class Excersise_5 {
 }
 
 class Excersise_6 {
+
+}
+
+class Excersise_7 {
+
+}
+
+class Excersise_8{
     
 }
